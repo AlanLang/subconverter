@@ -8,3 +8,7 @@ IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
+# > 个人自定义
+DOMAIN-SUFFIX,fineres.com
+DOMAIN-SUFFIX,fineres.com
+DOMAIN-SUFFIX,alanlang.me
